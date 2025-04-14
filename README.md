@@ -13,7 +13,7 @@ Throughout this semester, I aim to achieve the following key learning objectives
 1.  Develop proficiency in **Markdown**.
 2.  Gain practical experience and a strong understanding of **GitHub**.
 3.  Enhance **Python** programming skills relevant to AI applications in the arts and humanities.
-4.  Build foundational **Coding** competence.
+4.  Devlop my understanding of the various societal issues that can surface from **Machine Learning**.
 
 ## Content of this Repository
 
